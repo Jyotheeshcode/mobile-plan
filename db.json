@@ -1,0 +1,36 @@
+{
+  "plans": [
+    {
+      "id": 1001,
+      "planType": "Prepaid",
+      "planPrice": 400,
+      "planData": 40,
+      "calls": "No",
+      "addOns": "Hotstar"
+    },
+    {
+      "planType": "Postpaid",
+      "planPrice": 999,
+      "planData": 150,
+      "calls": "yes",
+      "addOns": "Prime Videos, Netflex",
+      "id": 1003
+    },
+    {
+      "planType": "Prepaid",
+      "planPrice": 399,
+      "planData": 20,
+      "calls": "no",
+      "addOns": "Winky music",
+      "id": 1004
+    },
+    {
+      "planType": "Postpaid",
+      "planPrice": "500",
+      "planData": "60",
+      "calls": "Yes",
+      "addOns": "mo",
+      "id": 1009
+    }
+  ]
+}
